@@ -6,7 +6,7 @@ To install Laravel, you'll need to have PHP and Composer installed on your syste
 # Step 1: Prerequisites
 Before you begin, ensure that you have the following software installed:
 
-**PHP:**
+****PHP:****
 Laravel requires PHP version 7.3.0 or higher. You can check your PHP version by running php -v in the command line.
 
 **Composer:**
