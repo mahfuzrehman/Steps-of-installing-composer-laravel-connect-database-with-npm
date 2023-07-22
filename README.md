@@ -1,4 +1,4 @@
-# composer-laravel-databaseconnect-npm-install
+# How to install composer, laravel, database connection, and install npm
 The Laravel installation process is quite straightforward. However, keep in mind that there might be updates or changes in the installation process beyond my knowledge cutoff date. Always refer to the official Laravel documentation for the most up-to-date instructions.
 
 To install Laravel, you'll need to have PHP and Composer installed on your system. Laravel utilizes Composer for dependency management. Here are the steps to install Laravel:
@@ -42,11 +42,11 @@ To set up the database for your Laravel application, you'll need to perform the 
 
 Open the **.env** file located in the root of your Laravel project. This file contains environment variables for your application, including database connection settings. Set the following variables to match your database configuration:
 
-DB_CONNECTION=mysql
-DB_HOST=your_database_host
-DB_PORT=your_database_port
-**DB_DATABASE= your_database_name**
-DB_USERNAME= root
+DB_CONNECTION=mysql <br/>
+DB_HOST=your_database_host <br/>
+DB_PORT=your_database_port <br/>
+**DB_DATABASE= your_database_name** <br/>
+DB_USERNAME= root <br/>
 DB_PASSWORD=your_database_password
 
 # Step 2: Run Database Migrations
