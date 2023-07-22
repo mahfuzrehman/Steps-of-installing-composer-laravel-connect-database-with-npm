@@ -1,15 +1,16 @@
 # composer-laravel-databaseconnect-npm-install
-
 The Laravel installation process is quite straightforward. However, keep in mind that there might be updates or changes in the installation process beyond my knowledge cutoff date. Always refer to the official Laravel documentation for the most up-to-date instructions.
 
 To install Laravel, you'll need to have PHP and Composer installed on your system. Laravel utilizes Composer for dependency management. Here are the steps to install Laravel:
 
-Step 1: Prerequisites
+# Step 1: Prerequisites
 Before you begin, ensure that you have the following software installed:
 
-PHP: Laravel requires PHP version 7.3.0 or higher. You can check your PHP version by running php -v in the command line.
+**PHP:**
+Laravel requires PHP version 7.3.0 or higher. You can check your PHP version by running php -v in the command line.
 
-Composer: Composer is a PHP package manager. You can download and install it by following the instructions on the official Composer website: https://getcomposer.org/
+**Composer:**
+Composer is a PHP package manager. You can download and install it by following the instructions on the official Composer website: https://getcomposer.org/
 
 Step 2: Install Laravel using Composer
 Once you have PHP and Composer installed, you can create a new Laravel project using the Composer create-project command. Open your terminal or command prompt and run the following command:
